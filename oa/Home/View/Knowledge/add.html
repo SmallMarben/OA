@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="__PUBLIC__/Home/css/base.css" />
+<link rel="stylesheet" href="__PUBLIC__/Home/css/info-reg.css" />
+
+<title>移动办公自动化系统</title>
+</head>
+
+<body>
+<div class="title"><h2>添加知识</h2></div>
+<form action="" method="post" enctype="multipart/form-data">
+	<div class="main">
+	    <p class="short-input ue-clear">
+	    	<label>标题：</label>
+	        <input type="text" name="kl_title" placeholder="公文标题" />
+	    </p>
+		<p class="short-input ue-clear">
+			<label>图片：</label>
+			<input type="file" name="kl_pic"  />
+		</p>
+	    <p class="short-input ue-clear">
+	    	<label>附件：</label>
+	        <input type="file" name="kl_file"  />
+	    </p>
+		<p class="short-input ue-clear">
+			<label>描述：</label>
+			<textarea  name="kl_description"  cols="100" rows="15"></textarea>
+		</p>
+	    <p class="short-input ue-clear">
+	    	<label>内容：</label>
+	        <textarea  name="kl_content"  cols="100" rows="15"></textarea>
+	    </p>
+	</div>
+	<div class="btn ue-clear">
+		<a href="javascript:;" class="confirm">确定</a>
+	    <a href="javascript:;" class="clear">清空内容</a>
+	</div>
+</form>
+</body>
+<script type="text/javascript" src="__PUBLIC__/Home/js/jquery.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Home/js/common.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Home/js/WdatePicker.js"></script>
+<script type="text/javascript">
+$(".select-title").on("click",function(){
+	$(".select-list").toggle();
+	return false;
+});
+$(".select-list").on("click","li",function(){
+	var txt = $(this).text();
+	$(".select-title").find("span").text(txt);
+});
+
+
+showRemind('input[type=text], textarea','placeholder');
+showRemind('input[type=text], textarea','placeholder');
+//点击确定，表单提交
+$('.confirm').click(function(){
+	$('form').submit();
+})
+
+//点击清空内容，重置表单项
+$('.clear').click(function(){
+	//reset为js的方法不是 所以得把jquery对象转换为js对象
+	$('form')[0].reset();
+})
+</script>
+<!--<script src="__PUBLIC__/Plugin/ckeditor/ckeditor.js" type="text/javascript"></script>
+<script>
+	CKEDITOR.replace('doc_content',{
+		skin:'office2013',
+		customConfig:'custom.js',
+		extraPlugins:'codesnippet',//插件名
+		codeSnippet_theme:'monokai_sublime'//插件皮肤
+
+	});//第一个参数为textarea的name值或id值
+</script>-->
+</html>

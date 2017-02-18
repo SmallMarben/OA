@@ -1,0 +1,2876 @@
+[ 2017-01-18T09:43:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2017-01-18T09:45:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-01-18T09:46:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2017-01-18T09:57:51+08:00 ] 127.0.0.1 /index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.103162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-01-18T09:57:51+08:00 ] 127.0.0.1 /index.php/Home/Test/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000394s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2017-01-18T10:20:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-01-18T10:20:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000766s ]
+
+[ 2017-01-18T10:24:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-01-18T10:37:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-01-18T10:37:19+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-01-18T10:39:51+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2017-01-18T11:28:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2017-01-18T11:28:24+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001236s ]
+
+[ 2017-01-18T11:28:44+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0119s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('总裁办','0','50','总裁办') [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-01-18T11:28:45+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: 非法操作:index
+
+[ 2017-01-18T11:30:09+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-01-18T11:30:29+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0133s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('财务部','0','50','我最喜欢的一个部门') [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2017-01-18T11:30:30+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+ERR: 非法操作:index
+
+[ 2017-01-18T11:30:43+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008888s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-01-18T11:30:56+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0060s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('人事部','0','50','认识认识') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-01-18T11:30:57+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+ERR: 非法操作:index
+
+[ 2017-01-18T11:31:00+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-01-18T11:31:27+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0104s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('教学部','0','50','教学部 教学部') [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2017-01-18T11:31:28+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+ERR: 非法操作:index
+
+[ 2017-01-18T11:36:40+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9f1d5da2a47a118dc0f36ad71c90981c.php 第 23 行.
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9f1d5da2a47a118dc0f36ad71c90981c.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2017-01-18T11:46:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-01-18T11:46:28+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2017-01-18T12:07:30+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0118s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('PHP学院','4','50','PHP学院') [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010457s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-01-18T12:07:32+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 35 行.
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 36 行.
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 37 行.
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 38 行.
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029658s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000947s ]
+
+[ 2017-01-18T12:10:20+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-01-18T12:12:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001221s ]
+
+[ 2017-01-18T12:12:24+08:00 ] 127.0.0.1 /index.php/Home/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined variable: data D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011182s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-01-18T12:12:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012597s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-01-18T12:12:42+08:00 ] 127.0.0.1 /index.php/Home/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: data D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-01-18T12:13:18+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-01-18T12:13:39+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0106s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('Java学院','4','50','Java学院') [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000835s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2017-01-18T12:13:41+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001294s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2017-01-18T12:16:42+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-01-18T12:18:35+08:00 ] 127.0.0.1 /index.php/Home/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Undefined variable: data D:\oa\oa\Runtime\Cache\Home\17fa20a9da40d54c0be0f265acc2b3a4.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-01-18T12:18:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-01-18T12:18:42+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-01-18T14:56:14+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0347s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002101s ]
+
+[ 2017-01-18T14:57:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-01-18T14:57:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2017-01-18T14:57:48+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2017-01-18T15:07:46+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-01-18T15:09:32+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2017-01-18T15:19:00+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2017-01-18T15:19:27+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0038s ]
+ERR: 1406:Data too long for column 'dept_remark' at row 1
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('就业部','1','50','就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部')
+ERR: 1406:Data too long for column 'dept_remark' at row 1
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('就业部','1','50','就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部就业部')
+
+[ 2017-01-18T15:19:35+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-01-18T15:19:42+08:00 ] 127.0.0.1 /index.php/Home/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0138s ]
+SQL: INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('就业部','1','50','就业部就业部就业部就业部就业部就业部就业部就业部就业部就业就业部就业部') [ RunTime:0.0265s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2017-01-18T15:19:44+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=1 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-01-18T15:20:59+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=1 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2017-01-18T15:21:22+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-01-18T15:34:11+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001646s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2017-01-18T15:34:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-01-18T15:34:54+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2017-01-18T15:36:34+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2017-01-18T15:39:35+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+
+[ 2017-01-18T15:39:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001260s ]
+
+[ 2017-01-18T15:39:59+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-01-18T15:40:15+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-01-18T15:40:38+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2017-01-18T15:54:55+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000995s ]
+
+[ 2017-01-18T15:58:01+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-01-18T16:06:52+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002069s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-01-18T16:08:49+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2017-01-18T16:09:17+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-01-18T16:10:58+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2017-01-18T16:11:45+08:00 ] 127.0.0.1 /index.php/Home/Dept/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort  [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` WHERE ( dept_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-01-18T16:15:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012225s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001140s ]
+
+[ 2017-01-18T16:37:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001170s ]
+
+[ 2017-01-18T16:37:59+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-01-18T16:38:01+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-01-18T16:38:02+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-01-18T16:50:54+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2017-01-18T16:53:31+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0053s ]
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_id,id 
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_id,id 
+
+[ 2017-01-18T16:57:26+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0045s ]
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_id,id 
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_id,id 
+
+[ 2017-01-18T16:58:34+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0039s ]
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_id,id 
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_id,id 
+
+[ 2017-01-18T17:03:46+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined variable: dept D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-01-18T17:04:32+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined variable: dept D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2017-01-18T17:05:55+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0043s ]
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_pid,id 
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` ORDER BY dept_pid,id 
+
+[ 2017-01-18T17:06:23+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_id  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-01-18T17:08:36+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-01-18T17:17:01+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0005s ]
+
+[ 2017-01-18T17:17:57+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010052s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001187s ]
+
+[ 2017-01-18T17:18:22+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-01-18T19:29:29+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-01-18T19:29:31+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-01-18T19:31:42+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0607s ]
+SQL: INSERT INTO `oa_user` (`user_name`,`dept_id`,`user_sex`,`user_age`,`user_birth`,`user_tel`,`user_email`,`user_pwd`,`user_addtime`) VALUES ('陈二狗','5','男','32','1070-05-01','47','232dssd@126.com','1234','1484739101') [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2017-01-18T19:31:43+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-01-18T19:32:40+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-01-18T19:33:20+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-01-18T19:33:24+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-01-18T19:33:29+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-01-18T19:33:32+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-01-18T19:33:37+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0048s ]
+SQL: INSERT INTO `oa_user` (`user_name`,`dept_id`,`user_sex`,`user_age`,`user_birth`,`user_tel`,`user_email`,`user_pwd`,`user_addtime`) VALUES ('张小花','6','女','23','1994-01-01','15620673456','dsad@qq.com','1234','1484739216') [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008805s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2017-01-18T19:33:38+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-01-18T19:34:19+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001030s ]
+
+[ 2017-01-18T19:35:14+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0053s ]
+SQL: INSERT INTO `oa_user` (`user_name`,`dept_id`,`user_sex`,`user_age`,`user_birth`,`user_tel`,`user_email`,`user_pwd`,`user_addtime`) VALUES ('网吧','4','男','11','2006-02-02','1890783712','adda@qq.com','81dc9bdb52d04dc20036dbd8313ed055','1484739313') [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008106s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2017-01-18T19:35:15+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-01-18T19:39:50+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2017-01-18T20:43:33+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0054s ]
+SQL: INSERT INTO `oa_user` (`user_name`,`dept_id`,`user_sex`,`user_age`,`user_birth`,`user_tel`,`user_email`,`user_pwd`,`user_addtime`) VALUES ('王二丫','5','女','30','1987-02-04','18023433321','67dsa@qq.com','81dc9bdb52d04dc20036dbd8313ed055','1484743412') [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2017-01-18T20:43:35+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2017-01-18T20:44:19+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2017-01-18T20:45:25+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2017-01-18T20:46:12+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-01-18T21:32:06+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: user_id D:\oa\oa\Home\Controller\UserController.class.php 第 9 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN user ON dept_id = user.dept_id  WHERE ( user.user_id= ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN user ON dept_id = user.dept_id  WHERE ( user.user_id= ) 
+
+[ 2017-01-18T21:35:38+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: dept_pid D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined index: dept_pid D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-01-18T21:36:47+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: dept_pid D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined index: dept_pid D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011209s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-01-18T21:37:07+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: dept_id D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined index: dept_id D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-01-18T21:37:15+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: dept_id D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined index: dept_id D:\oa\oa\Home\Controller\UserController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-01-18T21:38:12+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0044s ]
+NOTIC: [8] Undefined index: user_id D:\oa\oa\Home\Controller\UserController.class.php 第 14 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN user ON dept_id = user.dept_id  WHERE ( user.user_id= ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN user ON dept_id = user.dept_id  WHERE ( user.user_id= ) 
+
+[ 2017-01-18T21:39:30+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0035s ]
+ERR: 1054:Unknown column 'user.user_id' in 'where clause'
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( user.user_id=3 ) 
+ERR: 1054:Unknown column 'user.user_id' in 'where clause'
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( user.user_id=3 ) 
+
+[ 2017-01-18T21:40:33+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0039s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 )  [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011233s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-01-18T21:41:19+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0035s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-01-18T21:41:24+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0043s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-01-18T21:43:43+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0039s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-01-18T21:46:45+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0040s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-01-18T21:47:08+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0035s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-01-18T21:47:36+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0036s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: user_id D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 37 行.
+NOTIC: [8] Undefined index: user_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 38 行.
+NOTIC: [8] Undefined index: user_sex D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 40 行.
+NOTIC: [8] Undefined index: user_age D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 41 行.
+NOTIC: [8] Undefined index: user_tel D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 42 行.
+NOTIC: [8] Undefined index: user_birth D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: user_email D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 44 行.
+NOTIC: [8] Undefined index: user_addtime D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 45 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2017-01-18T21:49:53+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0042s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-01-18T21:50:42+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-01-18T21:51:29+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0038s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2017-01-18T22:08:15+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0044s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: user_id D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 37 行.
+NOTIC: [8] Undefined index: user_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 38 行.
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 39 行.
+NOTIC: [8] Undefined index: user_sex D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 40 行.
+NOTIC: [8] Undefined index: user_age D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 41 行.
+NOTIC: [8] Undefined index: user_tel D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 42 行.
+NOTIC: [8] Undefined index: user_birth D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] Undefined index: user_email D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 44 行.
+NOTIC: [8] Undefined index: user_addtime D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 45 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2017-01-18T22:08:34+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0039s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0008s ]
+
+[ 2017-01-18T22:11:01+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+
+[ 2017-01-18T22:12:30+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0009s ]
+
+[ 2017-01-18T22:14:19+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0008s ]
+
+[ 2017-01-18T22:15:58+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0035s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-01-18T22:16:49+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0044s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-01-18T22:17:58+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0038s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-01-18T22:18:04+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-01-18T22:19:01+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0037s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-01-18T22:19:47+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0008s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0008s ]
+
+[ 2017-01-18T22:21:23+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0044s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0006s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Home\Controller\UserController.class.php 第 13 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\oa\oa\Home\Controller\UserController.class.php 第 13 行.
+
+[ 2017-01-18T22:21:49+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0042s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Home\Controller\UserController.class.php 第 13 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\oa\oa\Home\Controller\UserController.class.php 第 13 行.
+
+[ 2017-01-18T22:21:53+08:00 ] 127.0.0.1 /index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_dept` ORDER BY dept_sort,dept_id  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined variable: vo D:\oa\oa\Runtime\Cache\Home\9287675d226ffd9377c7801aa7f6557f.php 第 22 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-01-18T22:21:55+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0041s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0009s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: dept_name D:\oa\oa\Home\Controller\UserController.class.php 第 13 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\oa\oa\Home\Controller\UserController.class.php 第 13 行.
+
+[ 2017-01-18T22:25:31+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0037s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014106s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2017-01-18T22:26:15+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0038s ]
+NOTIC: [8] Undefined index: user_id D:\oa\oa\Home\Controller\UserController.class.php 第 10 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user_id= ) LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user_id= ) LIMIT 1  
+
+[ 2017-01-18T22:26:32+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0038s ]
+ERR: 1054:Unknown column 'oa_user_id' in 'where clause'
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user_id=3 ) LIMIT 1  
+ERR: 1054:Unknown column 'oa_user_id' in 'where clause'
+ [ SQL语句 ] : SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user_id=3 ) LIMIT 1  
+
+[ 2017-01-18T22:27:47+08:00 ] 127.0.0.1 /index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `oa_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oa_user` ORDER BY user_addtime  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `oa_dept` [ RunTime:0.0034s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=3 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `dept_name` FROM `oa_dept` INNER JOIN oa_user ON oa_dept.dept_id = oa_user.dept_id  WHERE ( oa_user.user_id=4 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+NOTIC: [8] A non well formed numeric value encountered D:\oa\oa\Runtime\Cache\Home\07b1696ec514d0642b26c2ecb6ba98c9.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
